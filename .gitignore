@@ -1,0 +1,23 @@
+build/
+cmake-build-*/
+*.o
+*.a
+*.so
+*.exe
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+CTestTestfile.cmake
+Testing/
+.DS_Store
+.idea/
+.vscode/
+*.user
+# CMake and Build artifacts
+build/
+bin/
+*.o
+*.exe
+.DS_Storegit init
