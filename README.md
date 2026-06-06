@@ -13,7 +13,7 @@ The engine represents data centers as graph-based networks and integrates algori
 - Predictive failure analysis
 - SLA-aware scheduling
 
-The project demonstrates how diverse algorithmic paradigms can work together inside a realistic systems-engineering environment.
+Rather than implementing algorithms independently, CloudInfraEngine demonstrates how multiple algorithmic paradigms interact within a realistic cloud infrastructure environment, providing a practical bridge between theoretical DAA concepts and large-scale systems engineering.
 
 ---
 
@@ -167,8 +167,16 @@ ctest --output-on-failure
 - Failure injection and recovery
 - Workload migration simulation
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/73cf5ad9-f301-43af-8beb-bfaf261b07ce" width="450">
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/16ceda3f-f322-46b8-a8d4-455d3192f6d5" width="450">
+    </td>
+  </tr>
+</table>
+
 ---
 
-## ⭐ Why This Project?
-
-Rather than implementing algorithms independently, CloudInfraEngine demonstrates how multiple algorithmic paradigms interact within a realistic cloud infrastructure environment, providing a practical bridge between theoretical DAA concepts and large-scale systems engineering.
