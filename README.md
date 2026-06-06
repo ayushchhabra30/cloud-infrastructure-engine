@@ -30,6 +30,29 @@ Rather than implementing algorithms independently, CloudInfraEngine demonstrates
 - 🧪 Comprehensive automated testing suite
 
 ---
+## 📸 Simulation Preview
+
+### 🖥️ Sample Simulation Features
+
+- Dynamic cloud topology generation
+- Real-time node health monitoring
+- SLA compliance tracking
+- Load balancing strategies
+- Failure injection and recovery
+- Workload migration simulation
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/73cf5ad9-f301-43af-8beb-bfaf261b07ce" width="450">
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/16ceda3f-f322-46b8-a8d4-455d3192f6d5" width="450">
+    </td>
+  </tr>
+</table>
+
+---
 
 ## 🏗️ Architecture
 
@@ -155,28 +178,6 @@ make -j$(nproc)
 ```bash
 ctest --output-on-failure
 ```
-
----
-
-## 🖥️ Sample Simulation Features
-
-- Dynamic cloud topology generation
-- Real-time node health monitoring
-- SLA compliance tracking
-- Load balancing strategies
-- Failure injection and recovery
-- Workload migration simulation
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/73cf5ad9-f301-43af-8beb-bfaf261b07ce" width="450">
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/16ceda3f-f322-46b8-a8d4-455d3192f6d5" width="450">
-    </td>
-  </tr>
-</table>
 
 ---
 
